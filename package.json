@@ -1,5 +1,5 @@
 {
-  "name": "gtfs-sequelize",
+  "name": "cfa-gtfs-sequelize",
   "version": "0.0.1",
   "description": "A model for the static GTFS using sequelize.",
   "main": "index.js",
